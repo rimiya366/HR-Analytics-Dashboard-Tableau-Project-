@@ -18,7 +18,7 @@ By cross-tabulating demographics, departments, and sentiment data, the dashboard
 ---
 ## Dashboard-
 
-!(hrdashboard.png)
+![Dashboard](hrdashboard.png)
 
 ## 🛠️ Dashboard Architecture & Design Choices
 The layout was designed following professional data visualization and UI/UX best practices:
