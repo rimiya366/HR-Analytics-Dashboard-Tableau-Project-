@@ -16,6 +16,9 @@ By cross-tabulating demographics, departments, and sentiment data, the dashboard
 *   **Advanced Dynamic Segmentation:** The dashboard utilizes parameter filters to allow stakeholders to run deep diagnostic cohort queries (e.g., isolating specific demographics like the *Divorced* marital status cohort) to extract hidden risk factors.
 
 ---
+## Dashboard-
+
+![Streamlit App Screenshot](.png)
 
 ## 🛠️ Dashboard Architecture & Design Choices
 The layout was designed following professional data visualization and UI/UX best practices:
